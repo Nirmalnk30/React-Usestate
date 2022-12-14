@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+button {
+  background-color: tomato;
+  cursor: pointer;
+  padding: 5px;
+  color: white;
+  border-radius: 5px;
+}
+
+p {
+  font-size: 20px;
+  color: blueviolet;
+}
+
+.a1 {
+  background-color: black;
+  border-radius: 5px;
+  padding: 10px 10px;
+  cursor: pointer;
+}
